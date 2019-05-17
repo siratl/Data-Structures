@@ -157,3 +157,5 @@ class DoublyLinkedList:
           max = current_node.value
         current_node = current_node.next
       return max
+
+#
